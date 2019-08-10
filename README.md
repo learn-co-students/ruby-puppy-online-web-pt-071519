@@ -1,3 +1,4 @@
+sorry guys had to make a run..
 # Ruby Remembrance Lab
 
 ## Learning Goals

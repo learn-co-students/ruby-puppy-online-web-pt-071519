@@ -5,7 +5,7 @@
  
   def initialize(name)
     @name = name
-    @@all << save
+     self.save
   end
    def self.all
     @@all
@@ -21,6 +21,6 @@ end
 
  	end
  def save
-    @@all<<self
+    @@all << self
   end
 end
